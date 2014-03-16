@@ -1,0 +1,7 @@
+dldetector:
+1: getAdvancedMethodsData
+2: getBlockLight
+3: getCelestialAngle
+4: getSkyLight
+5: hasSky
+6: listMethods

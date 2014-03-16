@@ -1,0 +1,18 @@
+tile_thermalexpansion_strongbox_basic_name:
+1: canPlayerAccess
+2: condenseItems
+3: destroyStack
+4: getAccess
+5: getAdvancedMethodsData
+6: getAllStacks
+7: getInventoryName
+8: getInventorySize
+9: getOwnerName
+10: getStackInSlot
+11: listMethods
+12: pullItem
+13: pullItemIntoSlot
+14: pushItem
+15: pushItemIntoSlot
+16: setAccess
+17: swapStacks

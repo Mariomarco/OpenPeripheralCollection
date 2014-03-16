@@ -1,0 +1,22 @@
+ender_chest:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getColorNames
+6: getColors
+7: getColours
+8: getFrequency
+9: getInventoryName
+10: getInventorySize
+11: getStackInSlot
+12: listMethods
+13: pullItem
+14: pullItemIntoSlot
+15: pushItem
+16: pushItemIntoSlot
+17: setColorNames
+18: setColors
+19: setColours
+20: setFrequency
+21: swapStacks

@@ -1,0 +1,20 @@
+tile_thermalexpansion_machine_pulverizer_name:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getEnergy
+6: getEnergyPerTick
+7: getEnergyStored
+8: getInventoryName
+9: getInventorySize
+10: getMaxEnergy
+11: getMaxEnergyPerTick
+12: getMaxEnergyStored
+13: getStackInSlot
+14: listMethods
+15: pullItem
+16: pullItemIntoSlot
+17: pushItem
+18: pushItemIntoSlot
+19: swapStacks

@@ -1,0 +1,23 @@
+block_remotethermo:
+1: condenseItems
+2: destroyStack
+3: getActivationEnergy
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getEUConductionLoss
+7: getEUConductorBreakdownEnergy
+8: getEUInsulationBreakdownEnergy
+9: getEUInsulationEnergyAbsorption
+10: getInventoryName
+11: getInventorySize
+12: getMJStored
+13: getMaxMJReceived
+14: getMaxMJStored
+15: getMinMJReceived
+16: getStackInSlot
+17: listMethods
+18: pullItem
+19: pullItemIntoSlot
+20: pushItem
+21: pushItemIntoSlot
+22: swapStacks

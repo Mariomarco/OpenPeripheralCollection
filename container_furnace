@@ -1,0 +1,18 @@
+container_furnace:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getBurnTime
+6: getCookTime
+7: getCurrentItemBurnTime
+8: getInventoryName
+9: getInventorySize
+10: getStackInSlot
+11: isBurning
+12: listMethods
+13: pullItem
+14: pullItemIntoSlot
+15: pushItem
+16: pushItemIntoSlot
+17: swapStacks

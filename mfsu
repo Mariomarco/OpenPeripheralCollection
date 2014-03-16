@@ -1,0 +1,19 @@
+mfsu:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getEUCapacity
+6: getEUOutputPerTick
+7: getEUStored
+8: getInventoryName
+9: getInventorySize
+10: getMaxSafeEUInput
+11: getOfferedEnergy
+12: getStackInSlot
+13: listMethods
+14: pullItem
+15: pullItemIntoSlot
+16: pushItem
+17: pushItemIntoSlot
+18: swapStacks

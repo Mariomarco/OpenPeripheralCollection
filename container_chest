@@ -1,0 +1,14 @@
+container_chest:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getInventoryName
+6: getInventorySize
+7: getStackInSlot
+8: listMethods
+9: pullItem
+10: pullItemIntoSlot
+11: pushItem
+12: pushItemIntoSlot
+13: swapStacks

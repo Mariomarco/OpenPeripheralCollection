@@ -1,0 +1,16 @@
+ticketmachine:
+1: condenseItems
+2: createTicket
+3: destroyStack
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getInventoryName
+7: getInventorySize
+8: getOwner
+9: getStackInSlot
+10: listMethods
+11: pullItem
+12: pullItemIntoSlot
+13: pushItem
+14: pushItemIntoSlot
+15: swapStacks

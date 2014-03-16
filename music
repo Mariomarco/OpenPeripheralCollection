@@ -1,0 +1,8 @@
+music:
+1: getAdvancedMethodsData
+2: getNote
+3: incrementPitch
+4: listMethods
+5: playSound
+6: setPitch
+7: triggerNote

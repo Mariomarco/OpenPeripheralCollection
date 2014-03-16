@@ -1,0 +1,31 @@
+local mon = peripheral.wrap("monitor_0")
+
+function clsMon()
+  mon.clear()
+  mon.setCursorPos(1,1)
+end
+
+function newLineMon()
+  local cx, cy = mon.getCursorPos()
+  mon.setCursorPos(1, cy + 1)
+end
+
+while redstone.getInput("front") == false do
+  clsMon()
+  local t = peripheral.getMethods("top")
+  if t == nil then 
+    mon.write("No peripheral attached!!")
+  else
+    local h = fs.open(peripheral.getType("top"), "w")
+    h.writeLine(peripheral.getType("top") .. ":")
+    mon.write(peripheral.getType("top"))
+    newLineMon()
+    for key,value in pairs(t) do 
+      h.writeLine(key .. ": " .. value)
+      mon.write(key .. ": " .. value)
+      newLineMon() 
+    end
+    h.close()
+  end
+  sleep(1)
+end

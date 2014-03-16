@@ -1,0 +1,16 @@
+transformeruv:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getInventoryName
+6: getInventorySize
+7: getMaxSafeEUInput
+8: getOfferedEnergy
+9: getStackInSlot
+10: listMethods
+11: pullItem
+12: pullItemIntoSlot
+13: pushItem
+14: pushItemIntoSlot
+15: swapStacks

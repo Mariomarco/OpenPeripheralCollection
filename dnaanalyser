@@ -1,0 +1,21 @@
+dnaanalyser:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getEnergy
+6: getEnergyPerTick
+7: getEnergyStored
+8: getInventoryName
+9: getInventorySize
+10: getMaxEnergy
+11: getMaxEnergyPerTick
+12: getMaxEnergyStored
+13: getMaxSafeEUInput
+14: getStackInSlot
+15: listMethods
+16: pullItem
+17: pullItemIntoSlot
+18: pushItem
+19: pushItemIntoSlot
+20: swapStacks

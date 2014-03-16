@@ -1,0 +1,20 @@
+nuclear_reactor:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getEUOutput
+6: getHeat
+7: getInventoryName
+8: getInventorySize
+9: getMaxHeat
+10: getOfferedEnergy
+11: getStackInSlot
+12: getTankInfo
+13: isActive
+14: listMethods
+15: pullItem
+16: pullItemIntoSlot
+17: pushItem
+18: pushItemIntoSlot
+19: swapStacks

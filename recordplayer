@@ -1,0 +1,4 @@
+recordplayer:
+1: getAdvancedMethodsData
+2: getRecord
+3: listMethods

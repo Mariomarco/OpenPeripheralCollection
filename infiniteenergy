@@ -1,0 +1,12 @@
+infiniteenergy:
+1: getActivationEnergy
+2: getAdvancedMethodsData
+3: getEnergyStored
+4: getMJStored
+5: getMaxEnergyStored
+6: getMaxMJReceived
+7: getMaxMJStored
+8: getMaxSafeEUInput
+9: getMinMJReceived
+10: getOfferedEnergy
+11: listMethods

@@ -1,0 +1,7 @@
+sign:
+1: getAdvancedMethodsData
+2: getLine
+3: getText
+4: listMethods
+5: setLine
+6: setText
