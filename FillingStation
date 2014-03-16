@@ -1,0 +1,12 @@
+FillingStation:
+1: getTanks
+2: readTank
+3: getSlot
+4: getSizeInv
+5: printInv
+6: getCoords
+7: isFull
+8: isTankFull
+9: hasItem
+10: getName
+11: getPower

@@ -1,0 +1,8 @@
+forestry_beehouse:
+1: canBreed
+2: getAdvancedMethodsData
+3: getBeeBreedingData
+4: getBeeParents
+5: getDrone
+6: getQueen
+7: listMethods

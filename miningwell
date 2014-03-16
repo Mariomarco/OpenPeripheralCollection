@@ -1,0 +1,9 @@
+miningwell:
+1: getActivationEnergy
+2: getAdvancedMethodsData
+3: getMJStored
+4: getMaxMJReceived
+5: getMaxMJStored
+6: getMinMJReceived
+7: isActive
+8: listMethods

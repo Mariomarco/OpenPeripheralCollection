@@ -1,0 +1,15 @@
+liquid_fueled_boiler_firebox:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getInventoryName
+6: getInventorySize
+7: getStackInSlot
+8: getTankInfo
+9: listMethods
+10: pullItem
+11: pullItemIntoSlot
+12: pushItem
+13: pushItemIntoSlot
+14: swapStacks

@@ -1,0 +1,6 @@
+FTM:
+1: getFluidStored
+2: getAmountStored
+3: isFull
+4: isEmpty
+5: isSending

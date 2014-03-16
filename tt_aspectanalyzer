@@ -1,0 +1,5 @@
+tt_aspectanalyzer:
+1: hasItem
+2: itemHasAspects
+3: getAspects
+4: getAspectCount

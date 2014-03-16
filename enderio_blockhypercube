@@ -1,0 +1,22 @@
+enderio_blockhypercube:
+1: condenseItems
+2: destroyStack
+3: getActivationEnergy
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getEnergyStored
+7: getInventoryName
+8: getInventorySize
+9: getMJStored
+10: getMaxEnergyStored
+11: getMaxMJReceived
+12: getMaxMJStored
+13: getMinMJReceived
+14: getStackInSlot
+15: getTankInfo
+16: listMethods
+17: pullItem
+18: pullItemIntoSlot
+19: pushItem
+20: pushItemIntoSlot
+21: swapStacks

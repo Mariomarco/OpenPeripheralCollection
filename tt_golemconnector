@@ -1,0 +1,16 @@
+tt_golemconnector:
+1: getDecorations
+2: getPosition
+3: getType
+4: getHealth
+5: getCore
+6: getHome
+7: setHome
+8: getMarkers
+9: setMarkers
+10: newMarker
+11: addMarker
+12: saveMarker
+13: deleteMarker
+14: getMarker
+15: getMarkerCount

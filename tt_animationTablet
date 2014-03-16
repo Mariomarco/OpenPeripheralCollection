@@ -1,0 +1,9 @@
+tt_animationTablet:
+1: getRedstone
+2: setRedstone
+3: getLeftClick
+4: setLeftClick
+5: getRotation
+6: setRotation
+7: hasItem
+8: trigger

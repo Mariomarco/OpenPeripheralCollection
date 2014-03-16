@@ -1,0 +1,10 @@
+enderio_blocksolarpaneltileentity:
+1: getActivationEnergy
+2: getAdvancedMethodsData
+3: getEnergyStored
+4: getMJStored
+5: getMaxEnergyStored
+6: getMaxMJReceived
+7: getMaxMJStored
+8: getMinMJReceived
+9: listMethods

@@ -1,0 +1,5 @@
+ITM:
+1: getItemStored
+2: getAmountStored
+3: hasStack
+4: isSending

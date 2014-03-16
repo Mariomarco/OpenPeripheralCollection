@@ -1,0 +1,19 @@
+apiculture_0:
+1: canBreed
+2: condenseItems
+3: destroyStack
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getBeeBreedingData
+7: getBeeParents
+8: getDrone
+9: getInventoryName
+10: getInventorySize
+11: getQueen
+12: getStackInSlot
+13: listMethods
+14: pullItem
+15: pullItemIntoSlot
+16: pushItem
+17: pushItemIntoSlot
+18: swapStacks

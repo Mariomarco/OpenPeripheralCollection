@@ -1,0 +1,24 @@
+appeng_me_tilecraftingterminal:
+1: canHoldNewItem
+2: containsItemType
+3: countOfItemType
+4: extractItem
+5: getAdvancedMethodsData
+6: getAvailableItems
+7: getFreeBytes
+8: getName
+9: getPreformattedItems
+10: getPriority
+11: getRemainingItemCount
+12: getRemainingItemTypes
+13: getStoredItemCount
+14: getStoredItemTypes
+15: getTotalBytes
+16: getTotalItemTypes
+17: getUnusedBytes
+18: getUnusedItemCount
+19: insertItem
+20: isFuzzyPreformatted
+21: isPreformatted
+22: listMethods
+23: requestCrafting

@@ -1,0 +1,10 @@
+printer:
+1: write
+2: setCursorPos
+3: getCursorPos
+4: getPageSize
+5: newPage
+6: endPage
+7: getInkLevel
+8: setPageTitle
+9: getPaperLevel

@@ -1,0 +1,4 @@
+net_minecraft_src_buildcraft_factory_tilefloodgate:
+1: getAdvancedMethodsData
+2: getTankInfo
+3: listMethods

@@ -1,0 +1,10 @@
+tradingpost:
+1: getAdvancedMethodsData
+2: getItemBought
+3: getItemSold
+4: getNearestVillagerId
+5: getNumTrades
+6: getSecondItemBought
+7: getVillagerIds
+8: listMethods
+9: performTrade

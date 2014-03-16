@@ -1,0 +1,5 @@
+transfernodeliquid:
+1: getAdvancedMethodsData
+2: getPosition
+3: getTankInfo
+4: listMethods

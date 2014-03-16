@@ -1,0 +1,17 @@
+peripheral:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getEnergyStored
+6: getInventoryName
+7: getInventorySize
+8: getMaxEnergyStored
+9: getMaxSafeEUInput
+10: getStackInSlot
+11: listMethods
+12: pullItem
+13: pullItemIntoSlot
+14: pushItem
+15: pushItemIntoSlot
+16: swapStacks

@@ -1,0 +1,5 @@
+ETM:
+1: getEnergyStored
+2: isFull
+3: isEmpty
+4: isSending

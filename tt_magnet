@@ -1,0 +1,6 @@
+tt_magnet:
+1: isPulling
+2: setPulling
+3: getSignal
+4: getAdultSearch
+5: setAdultSearch

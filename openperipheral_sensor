@@ -1,0 +1,10 @@
+openperipheral_sensor:
+1: getAdvancedMethodsData
+2: getMinecartData
+3: getMinecartIds
+4: getMobData
+5: getMobIds
+6: getPlayerData
+7: getPlayerNames
+8: listMethods
+9: sonicScan

@@ -1,0 +1,24 @@
+openblocks_projector:
+1: appendLayer
+2: clearLayer
+3: clearMap
+4: condenseItems
+5: destroyStack
+6: getAdvancedMethodsData
+7: getAllStacks
+8: getInventoryName
+9: getInventorySize
+10: getMapId
+11: getMapInfo
+12: getPoint
+13: getRotation
+14: getStackInSlot
+15: listMethods
+16: pullItem
+17: pullItemIntoSlot
+18: pushItem
+19: pushItemIntoSlot
+20: rotate
+21: setMapInfo
+22: setPoint
+23: swapStacks

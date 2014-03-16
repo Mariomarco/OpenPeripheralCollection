@@ -1,0 +1,4 @@
+drum:
+1: getAdvancedMethodsData
+2: getTankInfo
+3: listMethods

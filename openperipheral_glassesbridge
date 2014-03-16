@@ -1,0 +1,16 @@
+openperipheral_glassesbridge:
+1: addBox
+2: addGradientBox
+3: addIcon
+4: addLiquid
+5: addText
+6: clear
+7: getAdvancedMethodsData
+8: getAllIds
+9: getAllObjects
+10: getById
+11: getGuid
+12: getStringWidth
+13: getUserSurface
+14: getUsers
+15: listMethods

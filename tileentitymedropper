@@ -1,0 +1,23 @@
+tileentitymedropper:
+1: canHoldNewItem
+2: containsItemType
+3: countOfItemType
+4: extractItem
+5: getAdvancedMethodsData
+6: getAvailableItems
+7: getFreeBytes
+8: getPreformattedItems
+9: getPriority
+10: getRemainingItemCount
+11: getRemainingItemTypes
+12: getStoredItemCount
+13: getStoredItemTypes
+14: getTotalBytes
+15: getTotalItemTypes
+16: getUnusedBytes
+17: getUnusedItemCount
+18: insertItem
+19: isFuzzyPreformatted
+20: isPreformatted
+21: listMethods
+22: requestCrafting

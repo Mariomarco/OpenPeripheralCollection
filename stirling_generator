@@ -1,0 +1,21 @@
+stirling_generator:
+1: condenseItems
+2: destroyStack
+3: getActivationEnergy
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getEnergyStored
+7: getInventoryName
+8: getInventorySize
+9: getMJStored
+10: getMaxEnergyStored
+11: getMaxMJReceived
+12: getMaxMJStored
+13: getMinMJReceived
+14: getStackInSlot
+15: listMethods
+16: pullItem
+17: pullItemIntoSlot
+18: pushItem
+19: pushItemIntoSlot
+20: swapStacks

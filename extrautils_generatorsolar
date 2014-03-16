@@ -1,0 +1,5 @@
+extrautils_generatorsolar:
+1: getAdvancedMethodsData
+2: getEnergyStored
+3: getMaxEnergyStored
+4: listMethods

@@ -1,0 +1,7 @@
+Dialling Device:
+1: dial
+2: terminate
+3: dialStored
+4: getStoredName
+5: getStoredGlyph
+6: getStoredCount

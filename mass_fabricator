@@ -1,0 +1,17 @@
+mass_fabricator:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getInventoryName
+6: getInventorySize
+7: getMaxSafeEUInput
+8: getProgress
+9: getStackInSlot
+10: getTankInfo
+11: listMethods
+12: pullItem
+13: pullItemIntoSlot
+14: pushItem
+15: pushItemIntoSlot
+16: swapStacks

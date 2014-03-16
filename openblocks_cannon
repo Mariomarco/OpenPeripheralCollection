@@ -1,0 +1,6 @@
+openblocks_cannon:
+1: getAdvancedMethodsData
+2: listMethods
+3: setPitch
+4: setSpeed
+5: setYaw

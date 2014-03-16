@@ -1,0 +1,24 @@
+tileentityinterfacefluid:
+1: canHoldNewItem
+2: containsItemType
+3: countOfItemType
+4: extractItem
+5: getAdvancedMethodsData
+6: getAvailableItems
+7: getFreeBytes
+8: getPreformattedItems
+9: getPriority
+10: getRemainingItemCount
+11: getRemainingItemTypes
+12: getStoredItemCount
+13: getStoredItemTypes
+14: getTankInfo
+15: getTotalBytes
+16: getTotalItemTypes
+17: getUnusedBytes
+18: getUnusedItemCount
+19: insertItem
+20: isFuzzyPreformatted
+21: isPreformatted
+22: listMethods
+23: requestCrafting

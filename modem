@@ -1,0 +1,12 @@
+modem:
+1: open
+2: isOpen
+3: close
+4: closeAll
+5: transmit
+6: isWireless
+7: getNamesRemote
+8: isPresentRemote
+9: getTypeRemote
+10: getMethodsRemote
+11: callRemote

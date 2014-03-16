@@ -1,0 +1,5 @@
+LightBridge:
+1: getCoords
+2: getName
+3: getPower
+4: getRange

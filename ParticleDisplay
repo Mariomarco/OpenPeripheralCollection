@@ -1,4 +1,4 @@
-LandMine:
+ParticleDisplay:
 1: getSlot
 2: getSizeInv
 3: printInv

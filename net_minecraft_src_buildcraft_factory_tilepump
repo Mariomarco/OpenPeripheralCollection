@@ -1,0 +1,10 @@
+net_minecraft_src_buildcraft_factory_tilepump:
+1: getActivationEnergy
+2: getAdvancedMethodsData
+3: getMJStored
+4: getMaxMJReceived
+5: getMaxMJStored
+6: getMinMJReceived
+7: getTankInfo
+8: isActive
+9: listMethods

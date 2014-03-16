@@ -1,0 +1,14 @@
+AdvancedGears:
+1: getSlot
+2: getSizeInv
+3: printInv
+4: getCoords
+5: isFull
+6: hasItem
+7: getName
+8: getPower
+9: getRatio
+10: getEnergy
+11: setRatio
+12: setTorque
+13: setSpeed

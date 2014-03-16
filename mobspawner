@@ -1,0 +1,4 @@
+mobspawner:
+1: getAdvancedMethodsData
+2: getSpawningMobName
+3: listMethods

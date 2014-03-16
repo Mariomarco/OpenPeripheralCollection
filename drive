@@ -1,0 +1,12 @@
+drive:
+1: isDiskPresent
+2: getDiskLabel
+3: setDiskLabel
+4: hasData
+5: getMountPath
+6: hasAudio
+7: getAudioTitle
+8: playAudio
+9: stopAudio
+10: ejectDisk
+11: getDiskID

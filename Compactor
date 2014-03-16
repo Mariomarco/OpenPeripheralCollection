@@ -1,4 +1,4 @@
-LandMine:
+Compactor:
 1: getSlot
 2: getSizeInv
 3: printInv
@@ -6,3 +6,6 @@ LandMine:
 5: isFull
 6: hasItem
 7: getName
+8: getTemperature
+9: getPressure
+10: getPower

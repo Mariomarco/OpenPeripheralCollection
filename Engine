@@ -1,0 +1,20 @@
+engine:
+1: condenseItems
+2: destroyStack
+3: getActivationEnergy
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getInventoryName
+7: getInventorySize
+8: getMJStored
+9: getMaxMJReceived
+10: getMaxMJStored
+11: getMinMJReceived
+12: getStackInSlot
+13: getTankInfo
+14: listMethods
+15: pullItem
+16: pullItemIntoSlot
+17: pushItem
+18: pushItemIntoSlot
+19: swapStacks

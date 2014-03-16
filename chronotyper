@@ -1,0 +1,27 @@
+chronotyper:
+1: condenseItems
+2: destroyStack
+3: getActivationEnergy
+4: getAdvancedMethodsData
+5: getAllStacks
+6: getEnergy
+7: getEnergyPerTick
+8: getEnergyStored
+9: getInventoryName
+10: getInventorySize
+11: getMJStored
+12: getMaxEnergy
+13: getMaxEnergyPerTick
+14: getMaxEnergyStored
+15: getMaxMJReceived
+16: getMaxMJStored
+17: getMaxSafeEUInput
+18: getMinMJReceived
+19: getStackInSlot
+20: isActive
+21: listMethods
+22: pullItem
+23: pullItemIntoSlot
+24: pushItem
+25: pushItemIntoSlot
+26: swapStacks

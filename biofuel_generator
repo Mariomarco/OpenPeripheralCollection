@@ -1,0 +1,18 @@
+biofuel_generator:
+1: condenseItems
+2: destroyStack
+3: getAdvancedMethodsData
+4: getAllStacks
+5: getEnergyStored
+6: getInventoryName
+7: getInventorySize
+8: getMaxEnergyStored
+9: getStackInSlot
+10: getTankInfo
+11: isActive
+12: listMethods
+13: pullItem
+14: pullItemIntoSlot
+15: pushItem
+16: pushItemIntoSlot
+17: swapStacks
