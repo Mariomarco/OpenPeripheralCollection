@@ -1,0 +1,8 @@
+01 -> getNote
+02 -> triggerNote
+03 -> incrementPitch
+04 -> listMethods
+05 -> getAdvancedMethodsData
+06 -> setPitch
+07 -> listSources
+08 -> playSound

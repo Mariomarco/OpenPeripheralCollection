@@ -1,0 +1,6 @@
+01 -> listMethods
+02 -> getAdvancedMethodsData
+03 -> setPitch
+04 -> setYaw
+05 -> setSpeed
+06 -> listSources

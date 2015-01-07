@@ -1,0 +1,5 @@
+01 -> listMethods
+02 -> getAdvancedMethodsData
+03 -> getEnergyStored
+04 -> listSources
+05 -> getMaxEnergyStored

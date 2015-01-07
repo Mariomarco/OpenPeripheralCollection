@@ -1,0 +1,17 @@
+01 -> swapStacks
+02 -> getInventoryName
+03 -> destroyStack
+04 -> pushItem
+05 -> expandStack
+06 -> getAdvancedMethodsData
+07 -> getInventorySize
+08 -> pushItemIntoSlot
+09 -> getStackInSlot
+10 -> getAllStacks
+11 -> listMethods
+12 -> pullItem
+13 -> getEUSourceTier
+14 -> getOfferedEnergy
+15 -> condenseItems
+16 -> pullItemIntoSlot
+17 -> listSources

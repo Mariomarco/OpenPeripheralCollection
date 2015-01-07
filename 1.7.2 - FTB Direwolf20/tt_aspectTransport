@@ -1,0 +1,8 @@
+01 -> isConnectable
+02 -> canInputFrom
+03 -> canOutputTo
+04 -> getSuctionType
+05 -> getSuctionAmount
+06 -> getEssentiaType
+07 -> getEssentiaAmount
+08 -> getMinimumSuction

@@ -1,0 +1,12 @@
+01 -> getTankInfo
+02 -> getColors
+03 -> listMethods
+04 -> setColours
+05 -> getColours
+06 -> getFrequency
+07 -> setColorNames
+08 -> getAdvancedMethodsData
+09 -> setColors
+10 -> listSources
+11 -> setFrequency
+12 -> getColorNames

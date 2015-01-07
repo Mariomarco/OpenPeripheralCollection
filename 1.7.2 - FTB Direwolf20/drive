@@ -1,0 +1,11 @@
+01 -> isDiskPresent
+02 -> getDiskLabel
+03 -> setDiskLabel
+04 -> hasData
+05 -> getMountPath
+06 -> hasAudio
+07 -> getAudioTitle
+08 -> playAudio
+09 -> stopAudio
+10 -> ejectDisk
+11 -> getDiskID

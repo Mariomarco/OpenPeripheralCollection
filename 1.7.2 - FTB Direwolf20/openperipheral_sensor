@@ -1,0 +1,11 @@
+01 -> getPlayerByUUID
+02 -> getPlayers
+03 -> sonicScan
+04 -> getMinecartIds
+05 -> getPlayerByName
+06 -> listMethods
+07 -> getAdvancedMethodsData
+08 -> getMinecartData
+09 -> getMobIds
+10 -> listSources
+11 -> getMobData

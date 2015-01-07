@@ -1,0 +1,56 @@
+local p
+local file
+local mon = peripheral.wrap("monitor_0")
+
+function newLine()
+  local cx, cy = mon.getCursorPos()
+  mon.setCursorPos(1,cy + 1)
+end
+
+function print(str)
+  mon.write(str)
+  newLine()
+end
+
+function writeToFile(str)
+  io.write(str .. "\n")
+end
+
+function inTable(tbl, item)
+  for k, v in pairs(tbl) do
+    if v == item then return k end
+  end
+  return false
+end
+
+function printTable(tbl)
+  if inTable(tbl, "listMethods") == nil then 
+    print(p.listMethods())
+    writeToFile(listMethods())
+  else
+    for k, v in pairs(tbl) do
+      if string.len(k) == 1 then 
+        print("0" .. k .. " -> " .. v)
+        writeToFile("0" .. k .. " -> " .. v)
+      else 
+        print(k .. " -> " .. v)
+        writeToFile(k .. " -> " ..v)
+      end
+    end
+  end
+end
+
+while true do
+  mon.setCursorPos(1,1)
+  mon.clear()
+  mon.setTextScale(1.3)
+  p = peripheral.wrap("top")
+  if peripheral.isPresent("top") == true then
+    file = io.open(peripheral.getType("top"), "w")
+    io.output(file)
+    print(peripheral.getType("top") .. ": ")
+    printTable(peripheral.getMethods("top")) 
+    io.close()
+  end
+  sleep(0.5)
+end

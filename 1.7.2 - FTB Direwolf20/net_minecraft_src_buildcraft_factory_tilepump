@@ -1,0 +1,7 @@
+01 -> getTankInfo
+02 -> listMethods
+03 -> hasWork
+04 -> getAdvancedMethodsData
+05 -> getEnergyStored
+06 -> listSources
+07 -> getMaxEnergyStored

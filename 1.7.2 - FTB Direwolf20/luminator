@@ -1,0 +1,5 @@
+01 -> getEUSinkTier
+02 -> listMethods
+03 -> getAdvancedMethodsData
+04 -> listSources
+05 -> getDemandedEnergy

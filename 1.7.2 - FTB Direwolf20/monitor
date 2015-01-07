@@ -1,0 +1,15 @@
+01 -> write
+02 -> scroll
+03 -> setCursorPos
+04 -> setCursorBlink
+05 -> getCursorPos
+06 -> getSize
+07 -> clear
+08 -> clearLine
+09 -> setTextScale
+10 -> setTextColour
+11 -> setTextColor
+12 -> setBackgroundColour
+13 -> setBackgroundColor
+14 -> isColour
+15 -> isColor

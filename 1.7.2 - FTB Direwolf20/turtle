@@ -1,0 +1,5 @@
+01 -> turnOn
+02 -> shutdown
+03 -> reboot
+04 -> getID
+05 -> isOn

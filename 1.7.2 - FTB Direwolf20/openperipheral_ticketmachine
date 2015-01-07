@@ -1,0 +1,17 @@
+01 -> getOwner
+02 -> swapStacks
+03 -> getInventoryName
+04 -> destroyStack
+05 -> pushItem
+06 -> expandStack
+07 -> getAdvancedMethodsData
+08 -> createTicket
+09 -> getInventorySize
+10 -> pushItemIntoSlot
+11 -> getStackInSlot
+12 -> getAllStacks
+13 -> listMethods
+14 -> pullItem
+15 -> condenseItems
+16 -> pullItemIntoSlot
+17 -> listSources

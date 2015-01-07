@@ -1,0 +1,11 @@
+01 -> open
+02 -> isOpen
+03 -> close
+04 -> closeAll
+05 -> transmit
+06 -> isWireless
+07 -> getNamesRemote
+08 -> isPresentRemote
+09 -> getTypeRemote
+10 -> getMethodsRemote
+11 -> callRemote

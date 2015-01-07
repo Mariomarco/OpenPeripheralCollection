@@ -1,0 +1,11 @@
+01 -> getTankInfo
+02 -> listMethods
+03 -> isWired
+04 -> hasGate
+05 -> getAdvancedMethodsData
+06 -> isWireActive
+07 -> isPipeConnected
+08 -> getPipeType
+09 -> getEnergyStored
+10 -> listSources
+11 -> getMaxEnergyStored

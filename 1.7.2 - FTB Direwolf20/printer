@@ -1,0 +1,9 @@
+01 -> write
+02 -> setCursorPos
+03 -> getCursorPos
+04 -> getPageSize
+05 -> newPage
+06 -> endPage
+07 -> getInkLevel
+08 -> setPageTitle
+09 -> getPaperLevel
